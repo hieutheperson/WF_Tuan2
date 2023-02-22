@@ -1,0 +1,12 @@
+E:\LapTrinhWindows\WF_Tuan2\WF_Tuan2\bin\Debug\WF_Tuan2.exe.config
+E:\LapTrinhWindows\WF_Tuan2\WF_Tuan2\bin\Debug\WF_Tuan2.exe
+E:\LapTrinhWindows\WF_Tuan2\WF_Tuan2\bin\Debug\WF_Tuan2.pdb
+E:\LapTrinhWindows\WF_Tuan2\WF_Tuan2\obj\Debug\WF_Tuan2.csproj.AssemblyReference.cache
+E:\LapTrinhWindows\WF_Tuan2\WF_Tuan2\obj\Debug\WF_Tuan2.csproj.SuggestedBindingRedirects.cache
+E:\LapTrinhWindows\WF_Tuan2\WF_Tuan2\obj\Debug\WF_Tuan2.F_LoginHocSinh.resources
+E:\LapTrinhWindows\WF_Tuan2\WF_Tuan2\obj\Debug\WF_Tuan2.Properties.Resources.resources
+E:\LapTrinhWindows\WF_Tuan2\WF_Tuan2\obj\Debug\WF_Tuan2.csproj.GenerateResource.cache
+E:\LapTrinhWindows\WF_Tuan2\WF_Tuan2\obj\Debug\WF_Tuan2.csproj.CoreCompileInputs.cache
+E:\LapTrinhWindows\WF_Tuan2\WF_Tuan2\obj\Debug\WF_Tuan2.exe
+E:\LapTrinhWindows\WF_Tuan2\WF_Tuan2\obj\Debug\WF_Tuan2.pdb
+E:\LapTrinhWindows\WF_Tuan2\WF_Tuan2\obj\Debug\WF_Tuan2.F_LoginGiaoVien.resources
